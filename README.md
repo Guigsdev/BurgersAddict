@@ -9,5 +9,7 @@ The second one will be the basket with the total price and the list of the produ
 
 # Application
 Developed in SWIFTUI
+
 Min IOS 14, orientation portrait only
+
 Use the Kingfisher library to download images (https://github.com/onevcat/Kingfisher)
